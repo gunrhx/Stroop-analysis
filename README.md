@@ -11,3 +11,10 @@ summary(data)
 
 ```
 
+
+**Rendered Output in GitHub:**
+
+### Code Example:
+```r
+data <- read.csv("stroop_data.csv")
+summary(data)
