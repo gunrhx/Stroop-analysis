@@ -18,3 +18,6 @@ summary(data)
 ```r
 data <- read.csv("stroop_data.csv")
 summary(data)
+```
+## exmaple image
+![example image -](images/IMG-20241227-WA0008.png)
