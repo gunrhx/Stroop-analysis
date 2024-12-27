@@ -5,3 +5,4 @@
 #ignore irrelevant folders
 /node_modules/
 /temp/
+.Rproj.user
